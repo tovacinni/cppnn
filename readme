@@ -15,3 +15,9 @@ To run:
     make
     chmod u+x test
     ./test
+
+TODO:
+
+  1. Implement more optimizations (better init value, dropoff, etc)
+  2. Make code more modular (cost functions and activation functions)
+  3. Convolutional neural nets 
