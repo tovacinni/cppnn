@@ -1,19 +1,9 @@
-Neural Net Report
-
-My main interest is in autonomous driving, but I chose the Neural Net challenge
-  since I'm not too well-versed with deep learning so I thought this'd be a
-  good opportunity to really learn how neural nets work.
-
 I implemented a pretty basic neural net in C++ using the Eigen library, with
   a quadratic cost function. The neural net classifies the Iris data-set with
   98% accuracy with the hyperparameters I chose.
 
 I implemented 2 classes; a Network class for the neural net, and a Iris_Loader
   class to load the dataset in.
-
-The results are shown in the 2 images, cost.png and correct.png. There are
-  definitely more elegant methods of data visualization, but I ran out of 
-  time so here goes.
 
 To run:
 
