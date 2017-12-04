@@ -1,0 +1,19 @@
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Compiled Files
+*.slo
+*.lo
+*.o
+*.d
+*.os
+*.obj
+*.gch
+
+# Library
+./lib/Eigen
+~
